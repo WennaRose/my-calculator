@@ -238,3 +238,8 @@ body {
   }
 }
 */
+@media (max-width: 520px) {
+  #box-parent {
+    scale: 0.8;
+  }
+}
